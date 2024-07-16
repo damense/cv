@@ -25,7 +25,9 @@ Links: [Linkedin](https://www.linkedin.com/in/dmendezsev/), [Github](https://git
 
 ## Work Experience
 
--   (*2020 - current*) **Data Scientist** at [Janssen Vaccines and Prevention]{.underline}: ![Janssen](logo-janssen.gif){.column-margin} As part of the Drug Product Development department I have coordinated efforts on both data engineering and data science projects. I am lead of the data capture projects by gathering and centralizing all data sources into a data lake. I act as lead and developer for several ML, statistical modelling and data visualization projects and develop data pipelines to dashboards for automatic reporting. Moreover I am involved into defining the digital strategy for the organization. I also lead several initiatives at a site, department, group and subgroup level mentoring and leading a group of 6 people.
+-   (*2023 - current*) **MSAT Data Science Lead** at [Galapagos]{.underline}: ![GLPG](Galapagos-logo.jpg){.column-margin} Part of the MSAT Global department I lead a team of 2 people in which we develop data pipelines to homogenize and wrangle data from different sources into a unified view. Moreover, we deploy different types of models to analyze and extract as much info from all the data we have in house using different statistical methods. 
+
+-   (*2020 - 2023*) **Data Scientist** at [Janssen Vaccines and Prevention]{.underline}: ![Janssen](logo-janssen.gif){.column-margin} As part of the Drug Product Development department I have coordinated efforts on both data engineering and data science projects. I am lead of the data capture projects by gathering and centralizing all data sources into a data lake. I act as lead and developer for several ML, statistical modelling and data visualization projects and develop data pipelines to dashboards for automatic reporting. Moreover I am involved into defining the digital strategy for the organization. I also lead several initiatives at a site, department, group and subgroup level mentoring and leading a group of 6 people.
 
 -   (*2017 - 2020*) **Process Engineer** at [Process Design Center]{.underline}: ![PDC](pdc-logo.png){.column-margin} My main responsibilities within PDC are the process design and techno-economic evaluation of bioprocesses. In most projects, lab data needs to interpreted and modelled in order to simulate and optimize the process. Modelling has been done using from polynomic equations to complex activity coefficient models or kinetics. Moreover I have used Octave and python for developing and I have strengthen my knowledge of Aspen Plus for simulation and regression of parameters (together with their uncertainty).
 
@@ -65,4 +67,4 @@ R, Python, Aspen, MATLAB, Microsoft 365
 11. [Fluid Phase Equilibria, 2018, 459, 158-169](https://www.sciencedirect.com/science/article/abs/pii/S0378381217304740)
 12. [Phytochemistry reviews 2018, 17(2), 291-326](https://link.springer.com/article/10.1007/s11101-017-9532-2)
 13. [Plan physiology, 2019, 179 (3), 969-985](https://academic.oup.com/plphys/article/179/3/969/6116733)
-14. [Nature Communications 2023, (14) 1918](https://www.nature.com/articles/s41467-023-37561-2) 
+14. [Nature Communications 2023, (14) 1918](https://www.nature.com/articles/s41467-023-37561-2)
