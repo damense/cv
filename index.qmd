@@ -15,17 +15,18 @@ format:
     fontfamily: libertinus
     colorlinks: true
     fontsize: '12'
+engine: knitr
 ---
 
 ## Introduction
 
-My name is David Méndez Sevillano (*he/him*) and I currently hold a position as Data Scientist in Janssen Vaccines and Prevention. I'm 38 and I've lived in Delft, the Netherlands for 12 years. My phone is *06-24990697* and my email address is *d.mendsev\@gmail.com.*
+My name is David Méndez Sevillano (*he/him*) and I currently hold a position as MSAT Data Science Lead in Galapagos. I'm `r as.numeric(floor((lubridate::today()-lubridate::date("1985-01-31"))/365.25))` years old and I've lived in Delft, the Netherlands for `r as.numeric(floor((lubridate::today()-lubridate::date("2010-11-15"))/365.25))` years. My email address is *d.mendsev\@gmail.com.*
 
-Links: [Linkedin](https://www.linkedin.com/in/dmendezsev/), [Github](https://github.com/damense)
+Links: [Linkedin](https://www.linkedin.com/in/dmendezsev/){target="_blank"}, [Github](https://github.com/damense){target="_blank"}, [Data Visualization Portfolio in Pixelfed](https://pixelfed.social/i/web/profile/786259471965841448){target="_blank"}
 
 ## Work Experience
 
--   (*2023 - current*) **MSAT Data Science Lead** at [Galapagos]{.underline}: ![GLPG](Galapagos-logo.jpg){.column-margin} Part of the MSAT Global department I lead a team of 2 people in which we develop data pipelines to homogenize and wrangle data from different sources into a unified view. Moreover, we deploy different types of models to analyze and extract as much info from all the data we have in house using different statistical methods. 
+-   (*2023 - current*) **MSAT Data Science Lead** at [Galapagos]{.underline}: ![GLPG](Galapagos-logo.jpg){.column-margin} Part of the MSAT Global department I lead a team of 2 people in which we develop data pipelines to homogenize and wrangle data from different sources into a unified view. Moreover, we deploy different types of models to analyze and extract as much info from all the data we have in house using different statistical methods.
 
 -   (*2020 - 2023*) **Data Scientist** at [Janssen Vaccines and Prevention]{.underline}: ![Janssen](logo-janssen.gif){.column-margin} As part of the Drug Product Development department I have coordinated efforts on both data engineering and data science projects. I am lead of the data capture projects by gathering and centralizing all data sources into a data lake. I act as lead and developer for several ML, statistical modelling and data visualization projects and develop data pipelines to dashboards for automatic reporting. Moreover I am involved into defining the digital strategy for the organization. I also lead several initiatives at a site, department, group and subgroup level mentoring and leading a group of 6 people.
 
@@ -45,7 +46,7 @@ Statistical Subject Matter Expert Course (Janssen); Data Science using R; Aspen 
 
 ## Software Experience
 
-R, Python, Aspen, MATLAB, Microsoft 365
+R (*This CV has been written in R*), Domino, Python, Aspen, MATLAB, Microsoft 365
 
 ## Other
 
